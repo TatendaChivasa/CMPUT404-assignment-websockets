@@ -59,3 +59,9 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+Sources
+========================
+AJAX EXAMPLE -- https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/ObserverExampleAJAX/server.py
+Websocket Example --- https://github.com/uofa-cmput404/cmput404-slides/tree/master/examples/WebSocketsExamples
+assignment 4 ---  https://github.com/TatendaChivasa/CMPUT404-assignment-ajax
